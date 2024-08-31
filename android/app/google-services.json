@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062324523902",
+    "project_id": "uanqo-942da",
+    "storage_bucket": "uanqo-942da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062324523902:android:945ac9f45f4a4bc3bbd92f",
+        "android_client_info": {
+          "package_name": "com.example.uanqo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH-zMXF4CcpHCwtN0OGlJxvDu2vQhkyi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
